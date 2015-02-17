@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-admin",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "powerful admin dashboard for ember-cli projects, more in http://ember-admin.com",
   "directories": {
     "doc": "doc",
@@ -37,11 +37,11 @@
     "broccoli-asset-rev": "0.3.1",
     "broccoli-concat": "0.0.12",
     "broccoli-merge-trees": "0.1.4",
-    "broccoli-sass": "^0.2.2",
+    "broccoli-sass": "aexmachina/broccoli-sass#sources-content",
     "broccoli-static-compiler": "0.1.4",
     "connect-restreamer": "^1.0.0",
     "ember-cli": "0.1.7",
-    "ember-cli-6to5": "^0.2.1",
+    "ember-cli-babel": "^4.0.0",
     "ember-cli-bootstrap-datepicker": "0.3.0",
     "ember-cli-ember-data": "0.1.0",
     "ember-cli-htmlbars": "^0.6.0",
